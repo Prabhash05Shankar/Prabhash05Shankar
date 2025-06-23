@@ -9,7 +9,7 @@ Welcome to my corner of the internet! I’m a Kotlin-fueled Android Developer �
 - 🧠 MCA graduate with a mind full of code and curiosity.
 - 💼 Currently working full-time as an Android Developer at **Ubuy**.
 - 🧪 Previously interned as an Android dev — now turned pro!
-- 🛠️ Fluent in **Java**, **Kotlin**, **XML**, and getting cozy with **Flutter + Dart**.
+- 🛠️ Fluent in **Java**, **Kotlin**, **XML**, and getting cozy with **Flutter + Dart** and **React**.
 - ✍️ Writing articles to help fellow devs — because sharing is caring (and maybe earning too 🤞).
 
 ---

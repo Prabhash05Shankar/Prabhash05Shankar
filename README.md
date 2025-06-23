@@ -50,4 +50,4 @@ Welcome to my corner of the internet! I’m a Kotlin-fueled Android Developer �
 
 ---
 
-Thanks for scrolling this far! If you’re still here, go check out my pinned projects. They’re cooler than this README. 😉
+Thanks for scrolling this far. 😉

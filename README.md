@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Prabhash Shankar!
 
-Welcome to my corner of the internet! I’m a Kotlin-fueled Android Developer ☕📱 by day, Flutter explorer by night, and somewhere in between — a tech writer, startup dreamer, and spiritual soul.
+Welcome to my corner of the internet! I’m a Kotlin-fueled Android Developer ☕📱 by day, Flutter and react native explorer by night, and somewhere in between — a tech writer, startup dreamer, and spiritual soul.
 
 ---
 
